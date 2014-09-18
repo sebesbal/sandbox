@@ -2,3 +2,4 @@ Ez az elsõ sor.
 Ezt a sort már a developban adtam hozzá.
 Mégegy sor a developban.
 Módosítom a developot, majd új branchot csinálok a munkafolderbõl.
+Módosítás feature1-en.
